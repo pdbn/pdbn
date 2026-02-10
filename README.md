@@ -14,12 +14,21 @@ Hi everyone ˚˖𓍢ִ໋❀<br><br>I am Phung Dang Bao Ngoc (or just Bao). <br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pdbn&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 # 🤩 Recent Projects
-### 🫀 Master Thesis: Clustering ICU ECG Signals with VRAE <br>
+### 🫀 Master Thesis: Clustering ICU ECG Signals with VRAE
 Thesis Internship @ Maastricht UMC+ Hospital - ICU <br>
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-purple)<br>
+![Clustering](https://img.shields.io/badge/Clustering-2E8B57?style=flat)
 🔗 [Repository](https://github.com/pdbn/MUMC-Thesis-Project)
 
 
+### 🛡️ Shilling-Attacks Detection with β-VAE
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-6A5ACD?style=flat)
+![Anomaly Detection](https://img.shields.io/badge/Anomaly%20Detection-8B0000?style=flat)
+🔗 [Repository](https://github.com/pdbn/Shilling-Attacks-Detection---Beta-VAE)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
