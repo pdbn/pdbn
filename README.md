@@ -15,10 +15,10 @@ Hi everyone ˚˖𓍢ִ໋❀<br><br>I am Phung Dang Bao Ngoc (or just Bao). <br>
 
 # 🤩 Recent Projects
 ### 🫀 Master Thesis: Clustering ICU ECG Signals with VRAE
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch)
+Thesis Internship @ Maastricht UMC+ Hospital - ICU
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-purple)
-
 🔗 [Repository](https://github.com/pdbn/MUMC-Thesis-Project)
 
 
