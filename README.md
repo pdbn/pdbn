@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi everyone ˚˖𓍢ִ໋❀<br><br>I am Phung Dang Bao Ngoc (or just Bao). <br>I'm a recent Msc Econometrics & Operations Research from Maastricht University.<br><br>I'm currently interested in furthering my skills in Machine Learning, Deep Learning, especially with Anomaly Detection.<br><br>
+Hi everyone ˚˖𓍢ִ໋❀<br><br>I am Phung Dang Bao Ngoc (or just Bao). <br>I'm a recent Msc Econometrics & Operations Research graduate from Maastricht University.<br><br>I'm currently interested in furthering my skills in Machine Learning, Deep Learning, especially with Anomaly Detection.<br><br>
 
 
 ## 🌐 Socials:
